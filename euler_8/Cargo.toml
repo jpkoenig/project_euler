@@ -1,0 +1,11 @@
+[package]
+name = "euler_8"
+version = "0.1.0"
+authors = ["John Paul Koenig <jpkoenig@umich.edu>"]
+edition = "2018"
+
+repository = "https://github.com/jpkoenig/project_euler.git"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
